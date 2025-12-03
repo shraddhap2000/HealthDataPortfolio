@@ -9,7 +9,7 @@ Objectives
 3. Determine the percentage of encounters involving chronic disease.
 4. Produce a clear, visual summary for executive review.
 
-Methodology
+Methodology ([SQL Code](./query.sql))
 1. Queried patient encounter data using SQL.
 2. Joined three core tables: encounters, organizations, and conditions.
 3. Used aggregate functions, CASE logic, and filtering for chronic conditions.

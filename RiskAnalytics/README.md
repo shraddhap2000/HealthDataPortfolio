@@ -13,7 +13,7 @@ This analysis provides a structured view of clinical risk, coding completeness, 
 3. Measure potential financial impact using simple risk-adjusted revenue modeling.
 4. Build clear Tableau dashboards that summarize findings for non-technical stakeholders.
 
-### Methodology 
+### Methodology ([SQL Code](./code.sql))
 Data Preparation (SQL:CTEs, Joins, Window Functions, Aggregates, CASE, Filtering and Grouping)
 * Cleaned and joined member, claims, and diagnoses data.
 * Calculated Total Sickness Score (TSS) per patient.

@@ -14,6 +14,6 @@ This portfolio is designed to showcase my analytical approach, problem solving s
 
 #### 2. Population Risk & Revenue Impact Analysis
 **Folder:** `RiskAnalytics`  
-**Summary:** Evaluated patient risk distribution using Total Sickness Score (TSS) tiers to understand how high-risk populations impact cost, care complexity, and revenue opportunity. Built dashboards highlighting demographic patterns, risk shifts, and potential under coding flags to support data driven decision-making for value based care. 
+**Summary:** Evaluated patient risk distribution using Total Sickness Score (TSS) tiers to understand how high-risk populations impact cost, care complexity, and revenue opportunity. Built dashboards highlighting demographic patterns, risk shifts, and potential under coding flags to support data driven decision-making for value based care.   
 **Skills:** SQL, Tableau, Excel   
 **View Project →** [Risk Analytics](./RiskAnalytics)

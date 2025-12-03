@@ -10,7 +10,7 @@ This portfolio is designed to showcase my analytical approach, problem-solving s
 **Folder:** `PatientEncounters`  
 **Summary:** Analyzed visit volume and chronic disease burden across centers to identify operational and care-management priorities.  
 **Skills:** SQL (CTEs, JOINs, CASE, Aggregation), Excel, Tableau  
-**View Project →** [Patient Encounters](./patientencounters)
+**View Project →** [Patient Encounters](./PatientEncounters)
 
 #### 2. [Name ]
 **Folder:** `project2folder`  
